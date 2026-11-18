@@ -4,7 +4,7 @@
 
 An end-to-end Excel analysis of 8,804 Netflix movies and TV shows: data cleaning, helper columns, pivot tables, slicers and an interactive dashboard that shows how the library grew, what it contains, where it comes from and who it is made for.
 
-![Dashboard](dashboard.png)
+![Dashboard.png](dashboard.png)
 
 ---
 
